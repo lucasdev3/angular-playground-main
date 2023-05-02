@@ -9,4 +9,11 @@ export class AppComponent {
   name = 'Angular ' + VERSION.major;
   buttonLabel: string = 'CARRINHO';
   buttonSecond: string = 'ADICIONAR A FAVORITOS';
+
+  ehMaiorDeIdade(): boolean {
+    return true;
+   }
+   
 }
+
+

@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./entry-data.component.css'],
 })
 export class EntryDataComponent {
-  placeholder:string = "email"
+  placeholder:string = "Informe aqui seu email"
   placepass:string = "senha"
   color:string= "blue"
 }

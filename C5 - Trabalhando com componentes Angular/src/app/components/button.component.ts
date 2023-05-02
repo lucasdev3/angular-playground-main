@@ -17,4 +17,5 @@ export class Button {
   getAlert(num: number) {
     alert(num);
   }
+
 }
